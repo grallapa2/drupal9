@@ -2,4 +2,4 @@ name: 'My first custom drupal module'
 type: module
 core_version_requirement: ^9
 description: 'Code to spark my module development understanding'
-package: 'Acquia module dev course'
+package: 'Acquia module dev course'  

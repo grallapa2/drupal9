@@ -1,0 +1,10 @@
+uuid: e176f1dc-0a2a-45f5-a6a5-4c6f1072e79e
+langcode: en
+status: true
+dependencies: {  }
+id: member
+label: Member
+weight: 3
+is_admin: null
+permissions:
+  - 'view rsvplist'
